@@ -1,3 +1,3 @@
 ### application.bat - 2020 - GUINAIS ###
-version= "1.2.1"
-echo "version${version}"
+version = "2.0.0"
+echo "version ${version}"
